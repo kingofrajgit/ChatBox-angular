@@ -1,0 +1,15 @@
+.nav{
+    width: 100%;
+    border: 2px solid black;
+    height: 50px;
+}
+.con-cox{
+    height: 100%;
+    width: 100%;
+}
+.conds{
+    width: 100%;
+    border: 1px solid black;
+    height: 40px;
+    background-color: orange;
+}
